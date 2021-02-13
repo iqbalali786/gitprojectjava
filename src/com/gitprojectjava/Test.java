@@ -1,0 +1,15 @@
+package com.gitprojectjava;
+
+public class Test {
+
+	public static void main(String[] args) {
+
+		for (int i = 0; i < args.length; i++) {
+
+			
+			System.out.println("this is my code please update it soon");
+		}
+
+	}
+
+}
